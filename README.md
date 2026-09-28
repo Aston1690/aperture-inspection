@@ -24,7 +24,7 @@ A working, local browser workspace for image inspection, calibrated measurements
 
 ## Run locally
 
-Node 22.12+ recommended.
+Node 24 recommended.
 
 ```sh
 npm ci
@@ -45,6 +45,12 @@ npm test
 - Only desk research and software/browser verification have been performed. No user interviews, customer adoption or research outcomes are claimed.
 - The native Figma import package is prepared, but has **not been run or visually verified in Figma**: the connector exhausted its Starter quota and browser editor sign-in is pending. The browser screen catalogue is complete; do not describe the empty Figma file as a finished deliverable.
 - CV and application email are kept outside this public repository.
+
+## Design package
+
+[24-screen catalogue](https://aston1690.github.io/aperture-inspection/docs/design/) · [Native Figma importer](https://aston1690.github.io/aperture-inspection/docs/Aperture_Figma_Import.zip)
+
+The catalogue contains rendered browser states; the importer creates editable native layers when run in an authenticated Figma editor. Its Figma execution is still pending.
 
 ## Project files
 
